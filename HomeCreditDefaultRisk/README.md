@@ -6,3 +6,5 @@ This project will contain four notebooks:
 2) Baseline model building (using the primary table from the training data to construct an XGB Classifier model)
 3) Data imputation/feature engineering using all of the dataset's tables
 4) Creating fine-tuned models that outperform our baseline model
+
+NOTE: If any of the notebooks don't load on GitHub, copy/paste the notebook's URL into https://nbviewer.jupyter.org/
